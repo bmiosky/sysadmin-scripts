@@ -1,2 +1,2 @@
 # sysadmin-scripts
-Helpful scripts
+PowerShell scripts for common SysAdmin tasks
